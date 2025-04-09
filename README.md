@@ -3,4 +3,4 @@
 - 👀 JAVA enthusiast
 - 📫 How to reach me: @bg0586@srmist.edu.in
 - 😄 Pronouns: she/her
-- 🤓 skills:HTML,CSS,JS,JAVA,basic DSA.
+- 🤓 skills:HTML, CSS, JS, Java, basic DSA, SQL , Express.js, Node.js, 
